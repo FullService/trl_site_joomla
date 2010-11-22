@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- $Id: pt-BR.xml,v 1.2 2009/09/01 17:03:29 carlos.delfino Exp $ -->
+<metafile version="1.5"  client="site" >
+    <name>Português(Brasil) - FullService</name>
+    <version>1.5.0</version>
+    <creationDate>2009-04-012</creationDate>
+    <author>Full Service Consultoria e Serviços</author>
+    <authorEmail>traducao@full.srv.br</authorEmail>
+    <authorUrl>www.full.srv.br</authorUrl>
+    <copyright>(C) 2009 FulService Consultoria e Serviços. All rights reserved.</copyright>
+    <license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+    <description>Pacote de idioma em Português Brasileiro para a site (frontend) do Joomla!</description>
+  <metadata>
+    	<name>Português (Brasil)</name>
+    	<tag>pt-BR</tag>
+    	<rtl>0</rtl>
+    	<locale>brazilian_portuguese, pt_BR, por_BR, ptb, pt_BR.iso88591, pt_BR.ISO8859-1</locale>
+    	<winCodePage>iso-8859-1</winCodePage>
+    	<backwardLang>brazilian_portuguese</backwardLang>
+    	<pdfFontName>freesans</pdfFontName>
+    </metadata>
+    <params />
+</metafile>
